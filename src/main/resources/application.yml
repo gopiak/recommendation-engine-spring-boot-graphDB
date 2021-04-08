@@ -1,0 +1,4 @@
+slash-graph-ql:
+  hostname: "_PASTE_YOUR_GRAPHQL_ENDPOINT_HERE_"
+server:
+  port: 8080
